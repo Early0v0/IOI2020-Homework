@@ -92,7 +92,7 @@
 - [x] [CF516D](https://codeforces.com/contest/516/problem/D)
 - [ ] [CF516E](https://codeforces.com/contest/516/problem/E)
 - [ ] [CF521D](https://codeforces.com/contest/521/problem/D)
-- [ ] [CF521E](https://codeforces.com/contest/521/problem/E)
+- [x] [CF521E](https://codeforces.com/contest/521/problem/E)
 - [ ] [CF526F](https://codeforces.com/contest/526/problem/F)
 - [ ] [CF526G](https://codeforces.com/contest/526/problem/G)
 - [ ] [CF528C](https://codeforces.com/contest/528/problem/C)
