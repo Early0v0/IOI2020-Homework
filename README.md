@@ -155,4 +155,4 @@
 - [ ] [CF704D](https://codeforces.com/contest/704/problem/D)
 - [ ] [CF704E](https://codeforces.com/contest/704/problem/E)
 - [ ] [CF708D](https://codeforces.com/contest/708/problem/D)
-- [ ] [CF708E](https://codeforces.com/contest/708/problem/E)
+- [x] [CF708E](https://codeforces.com/contest/708/problem/E)
