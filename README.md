@@ -140,7 +140,7 @@
 - [ ] [CF639F](https://codeforces.com/contest/639/problem/F)
 - [ ] [CF666D](https://codeforces.com/contest/666/problem/D)
 - [ ] [CF666E](https://codeforces.com/contest/666/problem/E)
-- [ ] [CF671D](https://codeforces.com/contest/671/problem/D)
+- [x] [CF671D](https://codeforces.com/contest/671/problem/D)
 - [ ] [CF671E](https://codeforces.com/contest/671/problem/E)
 - [ ] [CF674D](https://codeforces.com/contest/674/problem/D)
 - [ ] [CF674F](https://codeforces.com/contest/674/problem/F)
