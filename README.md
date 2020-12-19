@@ -88,7 +88,7 @@
 - [x] [CF504E](https://codeforces.com/contest/504/problem/E)
 - [x] [CF506C](https://codeforces.com/contest/506/problem/C)
 - [ ] [CF506E](https://codeforces.com/contest/506/problem/E)
-- [ ] [CF512D](https://codeforces.com/contest/512/problem/D)
+- [x] [CF512D](https://codeforces.com/contest/512/problem/D)
 - [x] [CF516D](https://codeforces.com/contest/516/problem/D)
 - [ ] [CF516E](https://codeforces.com/contest/516/problem/E)
 - [ ] [CF521D](https://codeforces.com/contest/521/problem/D)
