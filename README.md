@@ -7,7 +7,7 @@
 ## 题单
 
 - [x] [AGC020_D](https://atcoder.jp/contests/agc020/tasks/agc020_d)
-- [ ] [AGC020_E](https://atcoder.jp/contests/agc020/tasks/agc020_e)
+- [x] [AGC020_E](https://atcoder.jp/contests/agc020/tasks/agc020_e)
 - [ ] [AGC020_F](https://atcoder.jp/contests/agc020/tasks/agc020_f)
 - [x] [AGC021_E](https://atcoder.jp/contests/agc021/tasks/agc021_e)
 - [ ] [AGC021_F](https://atcoder.jp/contests/agc021/tasks/agc021_f)
