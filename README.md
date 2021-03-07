@@ -36,7 +36,7 @@
 - [x] [AGC029_C](https://atcoder.jp/contests/agc029/tasks/agc029_c)
 - [ ] [AGC029_E](https://atcoder.jp/contests/agc029/tasks/agc029_e)
 - [ ] [AGC029_F](https://atcoder.jp/contests/agc029/tasks/agc029_f)
-- [ ] [AGC030_C](https://atcoder.jp/contests/agc030/tasks/agc030_c)
+- [x] [AGC030_C](https://atcoder.jp/contests/agc030/tasks/agc030_c)
 - [ ] [AGC030_D](https://atcoder.jp/contests/agc030/tasks/agc030_d)
 - [ ] [AGC030_E](https://atcoder.jp/contests/agc030/tasks/agc030_e)
 - [ ] [AGC030_F](https://atcoder.jp/contests/agc030/tasks/agc030_f)
