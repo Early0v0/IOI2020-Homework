@@ -128,7 +128,7 @@
 - [ ] [CF590E](https://codeforces.com/contest/590/problem/E)
 - [ ] [CF594E](https://codeforces.com/contest/594/problem/E)
 - [ ] [CF603E](https://codeforces.com/contest/603/problem/E)
-- [ ] [CF605E](https://codeforces.com/contest/605/problem/E)
+- [x] [CF605E](https://codeforces.com/contest/605/problem/E)
 - [ ] [CF607E](https://codeforces.com/contest/607/problem/E)
 - [ ] [CF611G](https://codeforces.com/contest/611/problem/G)
 - [ ] [CF611H](https://codeforces.com/contest/611/problem/H)
