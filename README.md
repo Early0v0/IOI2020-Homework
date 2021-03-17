@@ -122,7 +122,7 @@
 - [ ] [CF582D](https://codeforces.com/contest/582/problem/D)
 - [ ] [CF582E](https://codeforces.com/contest/582/problem/E)
 - [ ] [CF585E](https://codeforces.com/contest/585/problem/E)
-- [ ] [CF585F](https://codeforces.com/contest/585/problem/F)
+- [x] [CF585F](https://codeforces.com/contest/585/problem/F)
 - [ ] [CF587D](https://codeforces.com/contest/587/problem/D)
 - [ ] [CF587F](https://codeforces.com/contest/587/problem/F)
 - [ ] [CF590E](https://codeforces.com/contest/590/problem/E)
