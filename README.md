@@ -109,7 +109,7 @@
 - [ ] [CF566E](https://codeforces.com/contest/566/problem/E)
 - [ ] [CF568C](https://codeforces.com/contest/568/problem/C)
 - [ ] [CF568E](https://codeforces.com/contest/568/problem/E)
-- [ ] [CF571D](https://codeforces.com/contest/571/problem/D)
+- [x] [CF571D](https://codeforces.com/contest/571/problem/D)
 - [ ] [CF571E](https://codeforces.com/contest/571/problem/E)
 - [ ] [CF573E](https://codeforces.com/contest/573/problem/E)
 - [ ] [CF575A](https://codeforces.com/contest/575/problem/A)
