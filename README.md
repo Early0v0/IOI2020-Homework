@@ -133,7 +133,7 @@
 - [ ] [CF611G](https://codeforces.com/contest/611/problem/G)
 - [ ] [CF611H](https://codeforces.com/contest/611/problem/H)
 - [ ] [CF613E](https://codeforces.com/contest/613/problem/E)
-- [ ] [CF626G](https://codeforces.com/contest/626/problem/G)
+- [x] [CF626G](https://codeforces.com/contest/626/problem/G)
 - [ ] [CF627F](https://codeforces.com/contest/627/problem/F)
 - [ ] [CF634F](https://codeforces.com/contest/634/problem/F)
 - [ ] [CF639E](https://codeforces.com/contest/639/problem/E)
